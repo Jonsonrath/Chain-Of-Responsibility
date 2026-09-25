@@ -1,0 +1,15 @@
+/home/birdohermes/Documents/4AHINF/POS/Chain-Of-Responsibility/Chain-Of-Reponsibility/Chain-Of-Reponsibility/bin/Debug/net10.0/Chain-Of-Reponsibility
+/home/birdohermes/Documents/4AHINF/POS/Chain-Of-Responsibility/Chain-Of-Reponsibility/Chain-Of-Reponsibility/bin/Debug/net10.0/Chain-Of-Reponsibility.deps.json
+/home/birdohermes/Documents/4AHINF/POS/Chain-Of-Responsibility/Chain-Of-Reponsibility/Chain-Of-Reponsibility/bin/Debug/net10.0/Chain-Of-Reponsibility.runtimeconfig.json
+/home/birdohermes/Documents/4AHINF/POS/Chain-Of-Responsibility/Chain-Of-Reponsibility/Chain-Of-Reponsibility/bin/Debug/net10.0/Chain-Of-Reponsibility.dll
+/home/birdohermes/Documents/4AHINF/POS/Chain-Of-Responsibility/Chain-Of-Reponsibility/Chain-Of-Reponsibility/bin/Debug/net10.0/Chain-Of-Reponsibility.pdb
+/home/birdohermes/Documents/4AHINF/POS/Chain-Of-Responsibility/Chain-Of-Reponsibility/Chain-Of-Reponsibility/obj/Debug/net10.0/Chain-Of-Reponsibility.GeneratedMSBuildEditorConfig.editorconfig
+/home/birdohermes/Documents/4AHINF/POS/Chain-Of-Responsibility/Chain-Of-Reponsibility/Chain-Of-Reponsibility/obj/Debug/net10.0/Chain-Of-Reponsibility.AssemblyInfoInputs.cache
+/home/birdohermes/Documents/4AHINF/POS/Chain-Of-Responsibility/Chain-Of-Reponsibility/Chain-Of-Reponsibility/obj/Debug/net10.0/Chain-Of-Reponsibility.AssemblyInfo.cs
+/home/birdohermes/Documents/4AHINF/POS/Chain-Of-Responsibility/Chain-Of-Reponsibility/Chain-Of-Reponsibility/obj/Debug/net10.0/Chain-Of-Reponsibility.csproj.CoreCompileInputs.cache
+/home/birdohermes/Documents/4AHINF/POS/Chain-Of-Responsibility/Chain-Of-Reponsibility/Chain-Of-Reponsibility/obj/Debug/net10.0/Chain-Of-Reponsibility.sourcelink.json
+/home/birdohermes/Documents/4AHINF/POS/Chain-Of-Responsibility/Chain-Of-Reponsibility/Chain-Of-Reponsibility/obj/Debug/net10.0/Chain-Of-Reponsibility.dll
+/home/birdohermes/Documents/4AHINF/POS/Chain-Of-Responsibility/Chain-Of-Reponsibility/Chain-Of-Reponsibility/obj/Debug/net10.0/refint/Chain-Of-Reponsibility.dll
+/home/birdohermes/Documents/4AHINF/POS/Chain-Of-Responsibility/Chain-Of-Reponsibility/Chain-Of-Reponsibility/obj/Debug/net10.0/Chain-Of-Reponsibility.pdb
+/home/birdohermes/Documents/4AHINF/POS/Chain-Of-Responsibility/Chain-Of-Reponsibility/Chain-Of-Reponsibility/obj/Debug/net10.0/Chain-Of-Reponsibility.genruntimeconfig.cache
+/home/birdohermes/Documents/4AHINF/POS/Chain-Of-Responsibility/Chain-Of-Reponsibility/Chain-Of-Reponsibility/obj/Debug/net10.0/ref/Chain-Of-Reponsibility.dll
