@@ -8,4 +8,14 @@ public class Data<T>
     {
         _val = value;
     }
+
+    public void Set(T value)
+    {
+        _val = value;
+    }
+
+    public T Get()
+    {
+        return _val;
+    }
 }
