@@ -2,13 +2,14 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Chain_Of_Reponsibility.User.User 
+namespace Chain_Of_Reponsibility.User.Admin 
 {
-    internal class Admin : Generic
+    public class Admin : Generic
     {
-       public Admin()
-       {
+        const AccessLevel _acc = AccessLevel.Admin;
+        public Admin(String name) : base( name)
+        {
 
-       }
+        }
     }
 }
