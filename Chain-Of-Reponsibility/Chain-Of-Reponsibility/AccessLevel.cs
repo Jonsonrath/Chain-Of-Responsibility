@@ -1,13 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+namespace Chain_Of_Reponsibility;
 
-namespace Chain_Of_Reponsibility
+public enum AccessLevel
 {
-    public enum AccessLevel
-    {
-        Generic,
-        User,
-        Admin
-    }
+    Generic = 0,
+    User = 1,
+    Admin = 2
 }

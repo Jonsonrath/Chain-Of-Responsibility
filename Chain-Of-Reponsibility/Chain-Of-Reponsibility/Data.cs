@@ -2,29 +2,10 @@ namespace Chain_Of_Reponsibility;
 
 public class Data<T>
 {
-    private T _val;
-    private AccessLevel _acc;
-    
-
-    public Data(T value,  AccessLevel acc)
+    public Data(T value)
     {
-        _val = value;
-        _acc = acc;
+        Value = value;
     }
 
-    public void Set(T value)
-    {
-        _val = value;
-    }
-
-    public T Get()
-    {
-        return _val;
-    }
-
-    public AccessLevel GetAccessLevel()
-    {
-        return _acc;
-    }
-    
+    public T Value { get; set; }
 }

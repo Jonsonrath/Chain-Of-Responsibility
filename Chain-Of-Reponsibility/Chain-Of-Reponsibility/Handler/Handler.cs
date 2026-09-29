@@ -1,18 +1,26 @@
+using Chain_Of_Reponsibility.Users;
+
 namespace Chain_Of_Reponsibility.Handler;
 
 public abstract class Handler
 {
     protected Handler? _next;
 
-    protected Handler(Handler? next = null)
+    public Handler SetNext(Handler next)
     {
         _next = next;
+        return next;
     }
 
-    public Handler? setNext(Handler? next)
+    public bool HandleRequest(Information info, Generic person)
     {
-        _next = next;
-        return _next; //für .setNext().setNext()
+        if (CanHandle(info))
+        {
+            return person.AccessLevel >= info.AccessLevel; //weil im enum ziffern automatisch vergeben werden
+        }
+
+        return _next?.HandleRequest(info, person) ?? false;
     }
-    public abstract  bool HandleRequest(Information info);
+
+    protected abstract bool CanHandle(Information info);
 }
