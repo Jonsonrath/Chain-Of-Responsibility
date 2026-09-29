@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Chain_Of_Reponsibility.User.Gerneric
+namespace Chain_Of_Reponsibility.User
 {
     public abstract class Generic
     {

@@ -2,7 +2,7 @@ namespace Chain_Of_Reponsibility.Handler;
 
 public abstract class Handler
 {
-    private Handler? _next;
+    protected Handler? _next;
 
     protected Handler(Handler? next = null)
     {
@@ -14,5 +14,5 @@ public abstract class Handler
         _next = next;
         return _next; //für .setNext().setNext()
     }
-    public abstract  bool HandleRequest();
+    public abstract  bool HandleRequest(Information info);
 }
