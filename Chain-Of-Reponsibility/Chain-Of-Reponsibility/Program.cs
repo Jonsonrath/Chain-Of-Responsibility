@@ -4,11 +4,13 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Choose an option ");
-        Console.WriteLine("1. Generic");
-        Console.WriteLine("2. User");
-        Console.WriteLine("3. Admin");
-        
+
+        Console.WriteLine("Mit Seeddaten befüllen? (y/n)");
+        bool seedData = Console.ReadLine() == "y";
+        if (seedData)
+        {
+            
+        }
         
     }
 }
