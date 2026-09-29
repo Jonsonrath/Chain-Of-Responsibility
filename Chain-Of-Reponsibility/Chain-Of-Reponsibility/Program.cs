@@ -4,6 +4,11 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Choose an option ");
+        Console.WriteLine("1. Generic");
+        Console.WriteLine("2. User");
+        Console.WriteLine("3. Admin");
+        
+        
     }
 }

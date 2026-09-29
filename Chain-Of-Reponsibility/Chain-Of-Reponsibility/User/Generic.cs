@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Chain_Of_Reponsibility
+namespace Chain_Of_Reponsibility.User
 {
-    internal class Generic
+    public abstract class Generic
     {
 
     }

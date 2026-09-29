@@ -4,7 +4,10 @@ using System.Text;
 
 namespace Chain_Of_Reponsibility
 {
-    internal class User
+    public enum AccessLevel
     {
+        Generic,
+        User,
+        Admin
     }
 }
